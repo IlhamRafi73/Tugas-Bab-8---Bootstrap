@@ -1,0 +1,59 @@
+
+/* HEADER */
+#topHeader{
+    background-color: #000000;
+}
+
+#bottomHeader{
+    background-color: #000000;
+}
+
+/* CONTENT */
+.top-hero-section{
+    height: 700;
+    color: #1a1a1a;
+    background-image: url('Mercedes-EQ-Line-Up_Homepage_D.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.section-one{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+/* FOOTER */
+
+.full-footer{
+    background-color: #000000;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.top-footer h5{
+    color: #d3d3d3;
+}
+
+.top-footer a{
+    color: #d3d3d3;
+    text-decoration: none;
+}
+
+.top-footer a:hover{
+    text-decoration: underline;
+}
+
+.bottom-footer{ 
+    background-color: #000000;
+}
+
+.bottom-footer a{
+    color: #d3d3d3;
+    text-decoration: none;
+}
+
+.bottom-footer a:hover{
+    text-decoration: underline;
+}
